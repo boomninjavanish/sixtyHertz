@@ -7,6 +7,8 @@ This project was a part of a Master's thesis to fulfill the requirements for the
 
 [Read the document here!](https://github.com/boomninjavanish/sixtyHertz/blob/master/matthewDunlapMastersThesis.pdf)
 
+## Demo Videos
+
 [Example Performance (use headphones)](https://vimeo.com/413004326)
 
 [Quick Explanation Video](https://vimeo.com/413027865)
