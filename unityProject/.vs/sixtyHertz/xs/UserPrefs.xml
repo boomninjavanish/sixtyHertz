@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{76220513-1D88-F8EB-D2B6-ACDF91D79FA5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SceneController.cs" Line="32" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sixtyHertz" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="OSC" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="SceneController.cs" selected="True" />
+              </Node>
+              <Node name="Tobii" expanded="True">
+                <Node name="Framework" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="sixtyHertz" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9e68c108-6ed9-4aec-975b-21838a53da81" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
