@@ -6,3 +6,7 @@ An exploration of various interfaces for musical expression led to the creation 
 This project was a part of a Master's thesis to fulfill the requirements for the Master of Music in Music Technology in the Department of Music and Performing Arts Professions at the Steinhardt School, New York University. 
 
 [Read the document here!](https://github.com/boomninjavanish/sixtyHertz/blob/master/matthewDunlapMastersThesis.pdf)
+
+[Example Performance (use headphones)](https://vimeo.com/413004326)
+
+[Quick Explanation Video](https://vimeo.com/413027865)
